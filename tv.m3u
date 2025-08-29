@@ -33,9 +33,6 @@ https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/fcc2sbh556rtp08/gtv.png" group-title="INDONESIA",1 GTV
-https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
-
 
 # ========== Trans TV ==========
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_87.png" group-title="INDONESIA", Trans TV
