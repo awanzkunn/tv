@@ -10,12 +10,6 @@
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/4/46/MNC_Channel_Indonesia.png/revision/latest?cb=20210404110709" group-title="INDONESIA",2 MNC TV
-https://allcutv.rctiplus.id/mnctv2023.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/d/d9/MNC_Channels_%282012%29.png/revision/latest?cb=20210331075557" group-title="INDONESIA",3 MNC TV
-https://1s1.rctiplus.id/mnctv2023.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/1/12/The_Indonesian_Channel.png/revision/latest?cb=20210404111131" group-title="INDONESIA",4 MNC TV
 https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 
@@ -80,12 +74,17 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
 
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="antv" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yekYMmrXoUjKXN7tnGQPM44js-tusWwMsaHdKwvB-aaaRw.png" group-title="INDONESIA",ANTV
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="antv" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yekYMmrXoUjKXN7tnGQPM44js-tusWwMsaHdKwvB-aaaRw.png" group-title="Indonesia",ANTV
 https://mantul.biz.id:443/user010223/user010223/206.ts
 
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="antv hd" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yekYMmrXoUjKXN7tnGQPM44js-tusWwMsaHdKwvB-aaaRw.png" group-title="INDONESIA",ANTV
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="antv hd" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yekYMmrXoUjKXN7tnGQPM44js-tusWwMsaHdKwvB-aaaRw.png" group-title="Indonesia",ANTV
 http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://perfecttv.net/logo/antv.png" group-title="Suport Kitkat",ANTV
+https://raw.githubusercontent.com/warningfm/streams/master/live/m3u8/id/b630a001384603f.m3u8
+
+#EXTINF:-1 tvg-logo="https://perfecttv.net/logo/antv.png" group-title="Suport Kitkat",ANTV
+http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 
 # ========== RTV ==========
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
