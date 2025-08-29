@@ -74,17 +74,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
 
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="antv" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yekYMmrXoUjKXN7tnGQPM44js-tusWwMsaHdKwvB-aaaRw.png" group-title="INDONESIA",ANTV
-https://mantul.biz.id:443/user010223/user010223/206.ts
-
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="antv hd" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yekYMmrXoUjKXN7tnGQPM44js-tusWwMsaHdKwvB-aaaRw.png" group-title="INDONESIA",ANTV
-http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_115.png" group-title="INDONESIA",ANTV
-https://raw.githubusercontent.com/warningfm/streams/master/live/m3u8/id/b630a001384603f.m3u8
-
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_115.png" group-title="INDONESIA",ANTV
-http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 
 # ========== RTV ==========
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
